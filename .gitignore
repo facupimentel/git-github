@@ -1,0 +1,19 @@
+# ignora archicos del sistema windows
+
+.folder_windows
+
+#ignora carpetas
+
+img-main
+
+#ignora archivos ej tipo texto
+
+*.text
+
+#ignora el archivo especifico 
+
+background.jpg
+
+#EMPEZAMOS ACA  
+
+no-subir/
